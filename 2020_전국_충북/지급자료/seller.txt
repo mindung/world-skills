@@ -1,0 +1,10 @@
+serial	id	pw	name	address
+1	rkdrkdcn2	rkdrkdcn123!	강강추 컴퓨터	서울특별시 도봉구 창2동 동아 1단지 3층
+2	gamja3	gamja52!	감자컴	충청남도 보령시 남포면 달산리 562상가 4층
+3	rlarlfrn5	rlarlfrn11!	김길구 PC	경상남도 창원시 성산구 신촌로 양곡상가 2단지 2층
+4	qkrcnstn8	qkrcnstn44#	박's 팩토리	부산광역시 중구 광복동1가 미광마린상가 2단지 4층
+5	onemind	onemind1!	한마음 아이티	 서울특별시 강남구 개포1동 대치2단지 1층
+6	compuzone	compuzone1!	컴퓨존	충청북도 청주시 흥덕구 가경동 가경상가 1층
+7	rhrnak12	rhrnak44!	신라 컴퓨터	경상북도 상주시 개운동 세영첼시상가 55층
+8	thdlstleo1	thdlstleo57!	컴여왕	대전광역시 동구 판암동 롯데타워  141층 
+9	mine	mine61!	팜마인	전라북도 전주시 덕진구 강흥동 대성상가 2단지 2층

@@ -1,0 +1,6 @@
+﻿m_index	m_id	m_passwd	m_name	m_gender	m_regdate	m_height
+1	rlsmd1	rlsmd1	홍길동	남	2020-08-20	168 
+2	rlsmd2	rlsmd2	김하늘	여	2020-08-20	169 
+3	rlsmd3	rlsmd3	정태호	여	2020-08-20	170 
+4	rlsmd4	rlsmd4	김시연	남	2020-08-20	171 
+5	rlsmd5	rlsmd5	최현수	남	2020-08-20	172 
