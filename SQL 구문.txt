@@ -1,0 +1,48 @@
+﻿데이터베이스 생성
+create database '데이터베이스_이름'
+
+데이터베이스 삭제
+drop database '데이터베이스_이름'
+
+데이터베이스가 있는 경우 삭제
+drop database if exists '데이터베이스_이름'
+
+데이터베이스 사용
+use '데이터베이스_이름'
+
+테이블 생성
+create table '테이블_이름' (컬럼1 데이터형식, 컬럼2 데이터형식,,,)
+
+- PK: primary key
+- NN: not null
+- AI: auto_increment
+- FK: foreign key
+       foreign key(연결할_필드) references 연결_테이블(연결할_필드)
+
+
+조회
+SELECT * FROM '테이블_이름';
+
+추가
+INSERT INTO '테이블_이름' VALUES(값1, 값2, 값3,,,)
+
+수정
+UPDATE '테이블_이름' SET 컬럼1 = 값1 where 컬럼 = 값
+
+삭제
+DELETE FROM '테이블_이름' where 컬럼 = 값
+
+
+
+
+프로젝트
+   - 패키지
+         - 클래스
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+Connection con = DriverManager.getConnection("jdbc:mysql://localhost?allowLoadLocalInfile=true&serverTimezone=UTC", "root", "1234");
+Statement stmt = con.createStatement();
+
+stmt.execute("set global local_infile = 'on'");
+stmt.execute("drop database if exists  데이터베이스");
+stmt.execute("create database 데이터베이스 default character set utf8");
+stmt.execute("use 데이터베이스");
+
+stmt.execute(create table 테이블());
+
+stmt.execute("load data local infile './datafile/테이블.txt' into table 테이블 ignore 1 lines");
+
+stmt.execute("drop user if exists user");
+stmt.execute("create user 'user' identified by '1234'");
+stmt.execute("grant select, insert, update, delete on 데이터베이스.* to 'user'");
+stmt.execute("flush privileges");
